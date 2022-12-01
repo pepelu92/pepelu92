@@ -2,7 +2,7 @@
  👋 I’m José Luis aka @Pepelu92 <br>
  🗣 Spanish(ES) / English(EN) <br>
  👨‍🎓 Data Analytics <br>
- 🏋️‍♂️ Currently improving my skills in Python and SQL <br>
+ 🏋️‍♂️ Currently improving my skills in Data Transformation & Visualization <br>
  🌱 Learning more about ML <br>
  
  ## Follow me
@@ -22,7 +22,9 @@
  
  
  ## 📚 Learning 
- 
+ ![SPARK](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
+ ![AMAZON](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
  
  ## My works
  Fifa23StreamlitApp by Pepelu [![Fifa23 Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pepelu92-fifa23streamlitappjlpr-inicio-97dh8p.streamlit.app/)
